@@ -1,0 +1,12 @@
+POST http://localhost:9000/api/users
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjcsImVtYWlsIjoieDEueUBzLngiLCJpc0FkbWluIjp0cnVlLCJpYXQiOjE2NjgzNTQ5OTF9.zr76DZmn3Nq03j67LbgTDhbLp4-b2Ktw4Mu9facez64
+
+{
+  "email": "abc@def",
+  "password": "123456",
+  "pictureUrl": "xx",
+  "isAdmin": true
+}
+

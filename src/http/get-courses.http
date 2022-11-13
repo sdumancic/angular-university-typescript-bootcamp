@@ -1,0 +1,6 @@
+GET http://localhost:9000/api/courses
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjMsImVtYWlsIjoidGVzdEBhbmd1bGFyLXVuaXZlcnNpdHkuaW8iLCJpc0FkbWluIjpmYWxzZSwiaWF0IjoxNjY4MzU0NzIzfQ.SUKoPqRquBkAjifBaRBP1-pUuE_z6mMc4EuKHo5DxJw
+
+

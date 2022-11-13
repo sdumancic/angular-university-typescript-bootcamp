@@ -1,0 +1,11 @@
+POST http://localhost:9000/api/users
+Accept: application/json
+Content-Type: application/json
+
+{
+  "email": "x2.y@s.x",
+  "password": "123456",
+  "pictureUrl": null,
+  "isAdmin": true
+}
+
